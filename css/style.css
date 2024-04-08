@@ -1,0 +1,44 @@
+/* header */
+
+header {
+    width: 1440px;
+    height: 122px;
+    background-color: #2A9D8F;
+    padding: 38px 130px;
+    margin: auto;
+}
+
+
+.logo_header {
+    display: inline-block;
+
+    vertical-align: middle;
+}
+
+.header-ul {
+    display: inline-block;
+
+}
+
+.header_nav {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 690px;
+
+}
+
+.header_li {
+    display: inline;
+
+}
+
+.midle_line {
+    margin-inline: 80px;
+}
+
+.active,
+.inactive {
+    font-size: 32px;
+    color: #FFFFFF;
+    ;
+}
